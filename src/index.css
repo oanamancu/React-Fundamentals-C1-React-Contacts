@@ -107,7 +107,7 @@ body,
   display: block;
   width: 73px;
   background: white;
-  background-image: url("../person-add.svg");
+  background-image: url("../public/person-add.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 28px;
